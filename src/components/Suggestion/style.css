@@ -1,0 +1,27 @@
+.container {
+	position: relative;
+	margin: auto;
+	width: 25%;
+	top: -35rem;
+	left: 3rem;
+	border: 5px solid black;
+}
+
+.suggestion {
+	display: flex;
+	justify-content: space-between;
+	border: 2px solid black;
+	margin: 0.2rem 0.2rem;
+}
+.suggestion img {
+	width: 10vh;
+	margin: 0.2rem 0.2rem;
+}
+.cross-icon {
+	cursor: pointer;
+}
+.refresh-btn {
+	max-width: 15%;
+	cursor: pointer;
+	text-decoration: blue underline;
+}

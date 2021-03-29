@@ -1,0 +1,7 @@
+.body-text {
+	display: flex;
+	font-size: 5rem;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-top: 20rem;
+}
